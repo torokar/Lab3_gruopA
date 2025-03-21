@@ -6,7 +6,6 @@
 
 int main()
 {
-    //1
     setlocale(LC_ALL, "ru");
     int size_vec = 12; 
     double tmp;
